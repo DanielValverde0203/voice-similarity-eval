@@ -21,7 +21,7 @@ For audios generated via XTTS v2 or any other TTS engine, the `[type]` must be e
 * **Format:** `[name]_sintetico_[engine/identifier].wav`
 * **Examples:**
   * `daniel_sintetico_xtts.wav`
-  * `nayelhi_sintetico_1_forms.wav`
+  * `marvin_sintetico_1_forms.wav`
 
 ## Audio Formatting Requirements
 Regardless of the naming convention, the system's underlying models (ECAPA-TDNN and NISQA) require the audio files to be strictly formatted as:
